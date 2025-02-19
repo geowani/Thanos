@@ -1,0 +1,8 @@
+Link de descarga de git 
+https://git-scm.com/downloads/win
+
+Instrucciones para correr el programa
+git clone https://github.com/geowani/Thanos
+cd Thanos
+pip install pygame o py -m pip install pygame
+python Thanos.py
